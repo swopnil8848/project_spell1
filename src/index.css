@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* import boudha from '/boudha' */
+
+/* .Home1{
+    background-image: public\boudha.jpg;
+} */
+
+.home1{
+    width: 100vw;
+}
